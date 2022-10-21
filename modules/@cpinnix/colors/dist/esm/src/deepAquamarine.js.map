@@ -1,0 +1,1 @@
+{"version":3,"file":"deepAquamarine.js","sources":["../../../src/deepAquamarine.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Deep Aquamarine\", \"#4a8c68\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,qBAAeA,cAAc,CAAC,iBAAiB,EAAE,SAAS,CAAC;;;;"}

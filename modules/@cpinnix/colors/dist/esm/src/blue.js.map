@@ -1,0 +1,1 @@
+{"version":3,"file":"blue.js","sources":["../../../src/blue.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Blue\", \"#2196f3\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}

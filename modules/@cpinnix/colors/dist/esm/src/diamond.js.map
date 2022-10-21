@@ -1,0 +1,1 @@
+{"version":3,"file":"diamond.js","sources":["../../../src/diamond.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Diamond\", \"#b6e3fd\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,cAAeA,cAAc,CAAC,SAAS,EAAE,SAAS,CAAC;;;;"}

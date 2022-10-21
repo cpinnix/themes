@@ -1,0 +1,1 @@
+{"version":3,"file":"pauBrasil.js","sources":["../../../src/pauBrasil.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Pau Brasil\", \"#764425\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,gBAAeA,cAAc,CAAC,YAAY,EAAE,SAAS,CAAC;;;;"}

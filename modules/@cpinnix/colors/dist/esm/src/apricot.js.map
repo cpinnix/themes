@@ -1,0 +1,1 @@
+{"version":3,"file":"apricot.js","sources":["../../../src/apricot.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Apricot\", \"#f8ceb6\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,cAAeA,cAAc,CAAC,SAAS,EAAE,SAAS,CAAC;;;;"}

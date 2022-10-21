@@ -1,0 +1,1 @@
+{"version":3,"file":"roseGold.js","sources":["../../../src/roseGold.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Rose Gold\", \"#b36279\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,WAAW,EAAE,SAAS,CAAC;;;;"}

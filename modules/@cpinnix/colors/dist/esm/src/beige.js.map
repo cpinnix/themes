@@ -1,0 +1,1 @@
+{"version":3,"file":"beige.js","sources":["../../../src/beige.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Beige\", \"#f4eddd\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,YAAeA,cAAc,CAAC,OAAO,EAAE,SAAS,CAAC;;;;"}

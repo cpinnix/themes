@@ -1,0 +1,1 @@
+{"version":3,"file":"watermelonRed.js","sources":["../../../src/watermelonRed.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Watermelon Red\", \"#b63c46\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,oBAAeA,cAAc,CAAC,gBAAgB,EAAE,SAAS,CAAC;;;;"}

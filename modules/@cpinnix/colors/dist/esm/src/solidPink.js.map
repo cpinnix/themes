@@ -1,0 +1,1 @@
+{"version":3,"file":"solidPink.js","sources":["../../../src/solidPink.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Solid Pink\", \"#85364c\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,gBAAeA,cAAc,CAAC,YAAY,EAAE,SAAS,CAAC;;;;"}

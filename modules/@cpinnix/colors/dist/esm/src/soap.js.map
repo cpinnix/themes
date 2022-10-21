@@ -1,0 +1,1 @@
+{"version":3,"file":"soap.js","sources":["../../../src/soap.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Soap\", \"#d6c4f2\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}

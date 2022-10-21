@@ -1,0 +1,1 @@
+{"version":3,"file":"policeBlue.js","sources":["../../../src/policeBlue.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Police Blue\", \"#344770\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,iBAAeA,cAAc,CAAC,aAAa,EAAE,SAAS,CAAC;;;;"}

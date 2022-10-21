@@ -1,0 +1,1 @@
+{"version":3,"file":"grayAsparagus.js","sources":["../../../src/grayAsparagus.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Gray Asparagus\", \"#3c5b4b\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,oBAAeA,cAAc,CAAC,gBAAgB,EAAE,SAAS,CAAC;;;;"}

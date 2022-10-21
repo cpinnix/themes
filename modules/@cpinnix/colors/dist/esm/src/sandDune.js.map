@@ -1,0 +1,1 @@
+{"version":3,"file":"sandDune.js","sources":["../../../src/sandDune.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Sand Dune\", \"#887760\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,WAAW,EAAE,SAAS,CAAC;;;;"}

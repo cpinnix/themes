@@ -1,0 +1,1 @@
+{"version":3,"file":"black.js","sources":["../../../src/black.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Black\", \"#000000\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,YAAeA,cAAc,CAAC,OAAO,EAAE,SAAS,CAAC;;;;"}

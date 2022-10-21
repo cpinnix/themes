@@ -1,0 +1,1 @@
+{"version":3,"file":"burntUmber.js","sources":["../../../src/burntUmber.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Burnt Umber\", \"#852f2e\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,iBAAeA,cAAc,CAAC,aAAa,EAAE,SAAS,CAAC;;;;"}

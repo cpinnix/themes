@@ -1,0 +1,1 @@
+{"version":3,"file":"spaceCadet.js","sources":["../../../src/spaceCadet.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Space Cadet\", \"#1e1d4c\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,iBAAeA,cAAc,CAAC,aAAa,EAAE,SAAS,CAAC;;;;"}

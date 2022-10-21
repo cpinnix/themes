@@ -1,0 +1,1 @@
+{"version":3,"file":"purple.js","sources":["../../../src/purple.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Purple\", \"#9c27b0\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,aAAeA,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC;;;;"}

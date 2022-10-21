@@ -1,0 +1,1 @@
+{"version":3,"file":"redOxide.js","sources":["../../../src/redOxide.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Red Oxide\", \"#681412\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,WAAW,EAAE,SAAS,CAAC;;;;"}

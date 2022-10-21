@@ -1,0 +1,1 @@
+{"version":3,"file":"coralRed.js","sources":["../../../src/coralRed.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Coral Red\", \"#f44336\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,WAAW,EAAE,SAAS,CAAC;;;;"}

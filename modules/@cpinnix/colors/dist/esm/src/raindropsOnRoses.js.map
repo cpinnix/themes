@@ -1,0 +1,1 @@
+{"version":3,"file":"raindropsOnRoses.js","sources":["../../../src/raindropsOnRoses.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Raindrops On Roses\", \"#ffead9\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,uBAAeA,cAAc,CAAC,oBAAoB,EAAE,SAAS,CAAC;;;;"}

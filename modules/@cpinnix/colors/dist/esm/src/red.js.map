@@ -1,0 +1,1 @@
+{"version":3,"file":"red.js","sources":["../../../src/red.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Red\", \"#f44336\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,UAAeA,cAAc,CAAC,KAAK,EAAE,SAAS,CAAC;;;;"}

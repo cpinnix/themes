@@ -1,0 +1,1 @@
+{"version":3,"file":"bluegrey.js","sources":["../../../src/bluegrey.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Bluegrey\", \"#607d8b\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,UAAU,EAAE,SAAS,CAAC;;;;"}

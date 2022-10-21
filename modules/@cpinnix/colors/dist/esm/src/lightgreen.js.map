@@ -1,0 +1,1 @@
+{"version":3,"file":"lightgreen.js","sources":["../../../src/lightgreen.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Lightgreen\", \"#8bc34a\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,iBAAeA,cAAc,CAAC,YAAY,EAAE,SAAS,CAAC;;;;"}

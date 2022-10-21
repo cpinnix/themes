@@ -1,0 +1,1 @@
+{"version":3,"file":"arsenic.js","sources":["../../../src/arsenic.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Arsenic\", \"#37374b\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,cAAeA,cAAc,CAAC,SAAS,EAAE,SAAS,CAAC;;;;"}

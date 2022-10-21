@@ -1,0 +1,1 @@
+{"version":3,"file":"englishVermillion.js","sources":["../../../src/englishVermillion.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"English Vermillion\", \"#ce4f46\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,wBAAeA,cAAc,CAAC,oBAAoB,EAAE,SAAS,CAAC;;;;"}

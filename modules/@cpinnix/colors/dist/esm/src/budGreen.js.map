@@ -1,0 +1,1 @@
+{"version":3,"file":"budGreen.js","sources":["../../../src/budGreen.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Bud Green\", \"#81af52\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,WAAW,EAAE,SAAS,CAAC;;;;"}

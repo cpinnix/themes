@@ -1,0 +1,1 @@
+{"version":3,"file":"blizzardBlue.js","sources":["../../../src/blizzardBlue.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Blizzard Blue\", \"#b0e3f2\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,mBAAeA,cAAc,CAAC,eAAe,EAAE,SAAS,CAAC;;;;"}

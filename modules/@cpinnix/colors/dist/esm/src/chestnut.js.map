@@ -1,0 +1,1 @@
+{"version":3,"file":"chestnut.js","sources":["../../../src/chestnut.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Chestnut\", \"#903b34\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,UAAU,EAAE,SAAS,CAAC;;;;"}

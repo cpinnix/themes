@@ -1,0 +1,1 @@
+{"version":3,"file":"liberty.js","sources":["../../../src/liberty.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Liberty\", \"#5a4f94\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,cAAeA,cAAc,CAAC,SAAS,EAAE,SAAS,CAAC;;;;"}

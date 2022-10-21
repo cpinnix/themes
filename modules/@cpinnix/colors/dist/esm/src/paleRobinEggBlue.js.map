@@ -1,0 +1,1 @@
+{"version":3,"file":"paleRobinEggBlue.js","sources":["../../../src/paleRobinEggBlue.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Pale Robin Egg Blue\", \"#93d9df\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,uBAAeA,cAAc,CAAC,qBAAqB,EAAE,SAAS,CAAC;;;;"}

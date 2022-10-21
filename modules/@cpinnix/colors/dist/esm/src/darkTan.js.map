@@ -1,0 +1,1 @@
+{"version":3,"file":"darkTan.js","sources":["../../../src/darkTan.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Dark Tan\", \"#986b4e\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,cAAeA,cAAc,CAAC,UAAU,EAAE,SAAS,CAAC;;;;"}

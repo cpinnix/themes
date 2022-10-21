@@ -1,0 +1,1 @@
+{"version":3,"file":"pink.js","sources":["../../../src/pink.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Pink\", \"#e91e63\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}

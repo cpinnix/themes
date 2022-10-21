@@ -1,0 +1,1 @@
+{"version":3,"file":"cornsilk.js","sources":["../../../src/cornsilk.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Cornsilk\", \"#fff4d8\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,UAAU,EAAE,SAAS,CAAC;;;;"}

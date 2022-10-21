@@ -1,0 +1,1 @@
+{"version":3,"file":"opal.js","sources":["../../../src/opal.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Opal\", \"#a6ceba\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}

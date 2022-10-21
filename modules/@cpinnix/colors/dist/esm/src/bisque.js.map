@@ -1,0 +1,1 @@
+{"version":3,"file":"bisque.js","sources":["../../../src/bisque.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Bisque\", \"#fee4cd\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,aAAeA,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC;;;;"}

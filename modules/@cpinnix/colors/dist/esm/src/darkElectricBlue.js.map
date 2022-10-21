@@ -1,0 +1,1 @@
+{"version":3,"file":"darkElectricBlue.js","sources":["../../../src/darkElectricBlue.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Dark Electric Blue\", \"#4e6486\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,uBAAeA,cAAc,CAAC,oBAAoB,EAAE,SAAS,CAAC;;;;"}

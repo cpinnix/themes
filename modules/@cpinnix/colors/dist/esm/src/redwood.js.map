@@ -1,0 +1,1 @@
+{"version":3,"file":"redwood.js","sources":["../../../src/redwood.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Redwood\", \"#a65750\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,cAAeA,cAAc,CAAC,SAAS,EAAE,SAAS,CAAC;;;;"}

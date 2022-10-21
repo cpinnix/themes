@@ -1,0 +1,1 @@
+{"version":3,"file":"contessa.js","sources":["../../../src/contessa.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Contessa\", \"#b86f68\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,eAAeA,cAAc,CAAC,UAAU,EAAE,SAAS,CAAC;;;;"}

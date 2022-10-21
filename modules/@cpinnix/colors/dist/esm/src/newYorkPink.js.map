@@ -1,0 +1,1 @@
+{"version":3,"file":"newYorkPink.js","sources":["../../../src/newYorkPink.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"New York Pink\", \"#d69486\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,kBAAeA,cAAc,CAAC,eAAe,EAAE,SAAS,CAAC;;;;"}

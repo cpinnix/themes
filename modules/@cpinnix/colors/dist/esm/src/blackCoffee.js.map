@@ -1,0 +1,1 @@
+{"version":3,"file":"blackCoffee.js","sources":["../../../src/blackCoffee.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Black Coffee\", \"#3e3531\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,kBAAeA,cAAc,CAAC,cAAc,EAAE,SAAS,CAAC;;;;"}

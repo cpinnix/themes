@@ -1,0 +1,1 @@
+{"version":3,"file":"forgetMeNot.js","sources":["../../../src/forgetMeNot.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Forget Me Not\", \"#fef1e1\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,kBAAeA,cAAc,CAAC,eAAe,EAAE,SAAS,CAAC;;;;"}

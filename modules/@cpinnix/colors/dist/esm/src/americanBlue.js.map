@@ -1,0 +1,1 @@
+{"version":3,"file":"americanBlue.js","sources":["../../../src/americanBlue.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"American Blue\", \"#46436b\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,mBAAeA,cAAc,CAAC,eAAe,EAAE,SAAS,CAAC;;;;"}

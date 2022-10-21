@@ -1,0 +1,1 @@
+{"version":3,"file":"deeporange.js","sources":["../../../src/deeporange.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Deeporange\", \"#ff5722\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,iBAAeA,cAAc,CAAC,YAAY,EAAE,SAAS,CAAC;;;;"}

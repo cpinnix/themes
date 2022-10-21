@@ -1,0 +1,1 @@
+{"version":3,"file":"iguanaGreen.js","sources":["../../../src/iguanaGreen.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Iguana Green\", \"#6cb586\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,kBAAeA,cAAc,CAAC,cAAc,EAAE,SAAS,CAAC;;;;"}

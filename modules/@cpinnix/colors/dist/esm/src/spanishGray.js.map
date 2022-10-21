@@ -1,0 +1,1 @@
+{"version":3,"file":"spanishGray.js","sources":["../../../src/spanishGray.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Spanish Gray\", \"#a09e99\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,kBAAeA,cAAc,CAAC,cAAc,EAAE,SAAS,CAAC;;;;"}

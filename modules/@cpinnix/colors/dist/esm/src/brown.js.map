@@ -1,0 +1,1 @@
+{"version":3,"file":"brown.js","sources":["../../../src/brown.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Brown\", \"#795548\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,YAAeA,cAAc,CAAC,OAAO,EAAE,SAAS,CAAC;;;;"}

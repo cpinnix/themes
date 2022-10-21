@@ -1,0 +1,1 @@
+{"version":3,"file":"metallicSunburst.js","sources":["../../../src/metallicSunburst.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Metallic Sunburst\", \"#a39340\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,uBAAeA,cAAc,CAAC,mBAAmB,EAAE,SAAS,CAAC;;;;"}

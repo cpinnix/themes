@@ -1,0 +1,1 @@
+{"version":3,"file":"rhythm.js","sources":["../../../src/rhythm.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Rhythm\", \"#726d9b\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,aAAeA,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC;;;;"}

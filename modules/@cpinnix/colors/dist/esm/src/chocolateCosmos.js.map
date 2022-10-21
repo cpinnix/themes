@@ -1,0 +1,1 @@
+{"version":3,"file":"chocolateCosmos.js","sources":["../../../src/chocolateCosmos.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Chocolate Cosmos\", \"#581617\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,sBAAeA,cAAc,CAAC,kBAAkB,EAAE,SAAS,CAAC;;;;"}

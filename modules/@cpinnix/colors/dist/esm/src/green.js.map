@@ -1,0 +1,1 @@
+{"version":3,"file":"green.js","sources":["../../../src/green.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Green\", \"#4caf50\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,YAAeA,cAAc,CAAC,OAAO,EAAE,SAAS,CAAC;;;;"}

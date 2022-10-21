@@ -1,0 +1,1 @@
+{"version":3,"file":"shilo.js","sources":["../../../src/shilo.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Shilo\", \"#e7b6a7\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,YAAeA,cAAc,CAAC,OAAO,EAAE,SAAS,CAAC;;;;"}

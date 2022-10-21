@@ -1,0 +1,1 @@
+{"version":3,"file":"cookiesAndCream.js","sources":["../../../src/cookiesAndCream.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Cookies And Cream\", \"#e4e4ae\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,sBAAeA,cAAc,CAAC,mBAAmB,EAAE,SAAS,CAAC;;;;"}
