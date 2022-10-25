@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import tumbleweed$1 from '@cpinnix/colors/tumbleweed';
-import raindropsOnRoses from '@cpinnix/colors/raindropsOnRoses';
+import { tumbleweed as tumbleweed$1, raindropsOnRoses } from '@cpinnix/colors';
 
 var tumbleweed = generateTheme({
   name: "tumbleweed",

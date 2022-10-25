@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import englishVermillion$1 from '@cpinnix/colors/englishVermillion';
-import mistyRose from '@cpinnix/colors/mistyRose';
+import { englishVermillion as englishVermillion$1, mistyRose } from '@cpinnix/colors';
 
 var englishVermillion = generateTheme({
   name: "englishVermillion",

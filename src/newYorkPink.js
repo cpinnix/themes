@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import newYorkPink from "@cpinnix/colors/newYorkPink";
-import antiFlashWhite from "@cpinnix/colors/antiFlashWhite";
+import { newYorkPink, antiFlashWhite } from "@cpinnix/colors";
 
 export default generate({
   name: "newYorkPink",

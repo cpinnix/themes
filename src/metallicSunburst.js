@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import metallicSunburst from "@cpinnix/colors/metallicSunburst";
-import blackOlive from "@cpinnix/colors/blackOlive";
+import { metallicSunburst, blackOlive } from "@cpinnix/colors";
 
 export default generate({
   name: "metallicSunburst",

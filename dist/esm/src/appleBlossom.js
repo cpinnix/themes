@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import appleBlossom$1 from '@cpinnix/colors/appleBlossom';
-import blackCoffee from '@cpinnix/colors/blackCoffee';
+import { appleBlossom as appleBlossom$1, blackCoffee } from '@cpinnix/colors';
 
 var appleBlossom = generateTheme({
   name: "appleBlossom",

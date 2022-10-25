@@ -1,7 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import antiFlashWhite from "@cpinnix/colors/antiFlashWhite";
-import blue from "@cpinnix/colors/blue";
-import gray from "@cpinnix/colors/gray";
+import { antiFlashWhite, blue, gray } from "@cpinnix/colors";
 
 export default generate({
   name: "light",

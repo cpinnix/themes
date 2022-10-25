@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import sandDune$1 from '@cpinnix/colors/sandDune';
-import antiFlashWhite from '@cpinnix/colors/antiFlashWhite';
+import { sandDune as sandDune$1, antiFlashWhite } from '@cpinnix/colors';
 
 var sandDune = generateTheme({
   name: "sandDune",

@@ -43,7 +43,7 @@ import desertSand from "./desertSand";
 import beige from "./beige";
 import spanishGray from "./spanishGray";
 import cornsilk from "./cornsilk";
-import amber from "./amber";
+export { default as amber } from "./amber";
 import flax from "./flax";
 import metallicSunburst from "./metallicSunburst";
 import bronzeYellow from "./bronzeYellow";
@@ -565,7 +565,6 @@ const themeMap = {
   beige,
   spanishGray,
   cornsilk,
-  amber,
   flax,
   metallicSunburst,
   bronzeYellow,
@@ -684,7 +683,6 @@ export {
   beige,
   spanishGray,
   cornsilk,
-  amber,
   flax,
   metallicSunburst,
   bronzeYellow,

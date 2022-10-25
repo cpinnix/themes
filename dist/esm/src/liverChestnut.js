@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import liverChestnut$1 from '@cpinnix/colors/liverChestnut';
-import appleBlossom from '@cpinnix/colors/appleBlossom';
+import { liverChestnut as liverChestnut$1, appleBlossom } from '@cpinnix/colors';
 
 var liverChestnut = generateTheme({
   name: "liverChestnut",

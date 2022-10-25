@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import darkPuce$1 from '@cpinnix/colors/darkPuce';
-import shilo from '@cpinnix/colors/shilo';
+import { darkPuce as darkPuce$1, shilo } from '@cpinnix/colors';
 
 var darkPuce = generateTheme({
   name: "darkPuce",

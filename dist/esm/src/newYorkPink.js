@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import newYorkPink$1 from '@cpinnix/colors/newYorkPink';
-import antiFlashWhite from '@cpinnix/colors/antiFlashWhite';
+import { newYorkPink as newYorkPink$1, antiFlashWhite } from '@cpinnix/colors';
 
 var newYorkPink = generateTheme({
   name: "newYorkPink",

@@ -1,7 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import black from "@cpinnix/colors/black";
-import gray from "@cpinnix/colors/gray";
-import blue from "@cpinnix/colors/blue";
+import { black, gray, blue } from "@cpinnix/colors";
 
 export default generate({
   name: "dark",

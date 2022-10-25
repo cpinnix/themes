@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import pauBrasil$1 from '@cpinnix/colors/pauBrasil';
-import apricot from '@cpinnix/colors/apricot';
+import { pauBrasil as pauBrasil$1, apricot } from '@cpinnix/colors';
 
 var pauBrasil = generateTheme({
   name: "pauBrasil",

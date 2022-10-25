@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import desertSand$1 from '@cpinnix/colors/desertSand';
-import blackCoffee from '@cpinnix/colors/blackCoffee';
+import { desertSand as desertSand$1, blackCoffee } from '@cpinnix/colors';
 
 var desertSand = generateTheme({
   name: "desertSand",

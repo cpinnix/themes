@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import cornsilk$1 from '@cpinnix/colors/cornsilk';
-import blackOlive from '@cpinnix/colors/blackOlive';
+import { cornsilk as cornsilk$1, blackOlive } from '@cpinnix/colors';
 
 var cornsilk = generateTheme({
   name: "cornsilk",

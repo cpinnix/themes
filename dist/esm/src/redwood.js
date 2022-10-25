@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import redwood$1 from '@cpinnix/colors/redwood';
-import mistyRose from '@cpinnix/colors/mistyRose';
+import { redwood as redwood$1, mistyRose } from '@cpinnix/colors';
 
 var redwood = generateTheme({
   name: "redwood",

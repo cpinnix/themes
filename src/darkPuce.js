@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import darkPuce from "@cpinnix/colors/darkPuce";
-import shilo from "@cpinnix/colors/shilo";
+import { darkPuce, shilo } from "@cpinnix/colors";
 
 export default generate({
   name: "darkPuce",

@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import forgetMeNot$1 from '@cpinnix/colors/forgetMeNot';
-import blackCoffee from '@cpinnix/colors/blackCoffee';
+import { forgetMeNot as forgetMeNot$1, blackCoffee } from '@cpinnix/colors';
 
 var forgetMeNot = generateTheme({
   name: "forgetMeNot",

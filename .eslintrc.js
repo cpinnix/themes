@@ -1,13 +1,14 @@
 export default {
   env: {
     browser: true,
-    es2021: true,
+    es2021: true
   },
   extends: "eslint:recommended",
   overrides: [],
   parserOptions: {
     ecmaVersion: "latest",
-    sourceType: "module",
+    sourceType: "module"
   },
-  rules: {},
+  rules: {}
 };
+export const extends = ["plugin:storybook/recommended"];

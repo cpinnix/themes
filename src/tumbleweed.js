@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import tumbleweed from "@cpinnix/colors/tumbleweed";
-import raindropsOnRoses from "@cpinnix/colors/raindropsOnRoses";
+import { tumbleweed, raindropsOnRoses } from "@cpinnix/colors";
 
 export default generate({
   name: "tumbleweed",

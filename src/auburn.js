@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import auburn from "@cpinnix/colors/auburn";
-import mistyRose from "@cpinnix/colors/mistyRose";
+import { auburn, mistyRose } from "@cpinnix/colors";
 
 export default generate({
   name: "auburn",

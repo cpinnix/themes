@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import deepTaupe$1 from '@cpinnix/colors/deepTaupe';
-import shilo from '@cpinnix/colors/shilo';
+import { deepTaupe as deepTaupe$1, shilo } from '@cpinnix/colors';
 
 var deepTaupe = generateTheme({
   name: "deepTaupe",

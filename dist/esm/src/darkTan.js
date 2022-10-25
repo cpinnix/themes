@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import darkTan$1 from '@cpinnix/colors/darkTan';
-import apricot from '@cpinnix/colors/apricot';
+import { darkTan as darkTan$1, apricot } from '@cpinnix/colors';
 
 var darkTan = generateTheme({
   name: "darkTan",

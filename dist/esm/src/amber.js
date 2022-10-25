@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import amber$1 from '@cpinnix/colors/amber';
-import blackOlive from '@cpinnix/colors/blackOlive';
+import { amber as amber$1, blackOlive } from '@cpinnix/colors';
 
 var amber = generateTheme({
   name: "amber",

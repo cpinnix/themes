@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import flax from "@cpinnix/colors/flax";
-import blackOlive from "@cpinnix/colors/blackOlive";
+import { flax, blackOlive } from "@cpinnix/colors";
 
 export default generate({
   name: "flax",

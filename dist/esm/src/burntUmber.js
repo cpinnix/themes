@@ -1,7 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import burntUmber$1 from '@cpinnix/colors/burntUmber';
-import blue from '@cpinnix/colors/blue';
-import mistyRose from '@cpinnix/colors/mistyRose';
+import { burntUmber as burntUmber$1, blue, mistyRose } from '@cpinnix/colors';
 
 var burntUmber = generateTheme({
   name: "burntUmber",

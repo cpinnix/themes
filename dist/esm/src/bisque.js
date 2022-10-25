@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import bisque$1 from '@cpinnix/colors/bisque';
-import blackCoffee from '@cpinnix/colors/blackCoffee';
+import { bisque as bisque$1, blackCoffee } from '@cpinnix/colors';
 
 var bisque = generateTheme({
   name: "bisque",

@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import spanishGray$1 from '@cpinnix/colors/spanishGray';
-import antiFlashWhite from '@cpinnix/colors/antiFlashWhite';
+import { spanishGray as spanishGray$1, antiFlashWhite } from '@cpinnix/colors';
 
 var spanishGray = generateTheme({
   name: "spanishGray",

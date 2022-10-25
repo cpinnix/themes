@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import sandDune from "@cpinnix/colors/sandDune";
-import antiFlashWhite from "@cpinnix/colors/antiFlashWhite";
+import { sandDune, antiFlashWhite } from "@cpinnix/colors";
 
 export default generate({
   name: "sandDune",

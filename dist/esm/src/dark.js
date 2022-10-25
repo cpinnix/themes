@@ -1,7 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import black from '@cpinnix/colors/black';
-import gray from '@cpinnix/colors/gray';
-import blue from '@cpinnix/colors/blue';
+import { black, blue, gray } from '@cpinnix/colors';
 
 var dark = generateTheme({
   name: "dark",

@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import sepia$1 from '@cpinnix/colors/sepia';
-import brownYellow from '@cpinnix/colors/brownYellow';
+import { sepia as sepia$1, brownYellow } from '@cpinnix/colors';
 
 var sepia = generateTheme({
   name: "sepia",

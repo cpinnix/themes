@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import deeporange from "@cpinnix/colors/deeporange";
-import white from "@cpinnix/colors/white";
+import { deeporange, white } from "@cpinnix/colors";
 
 export default generate({
   name: "deeporange",

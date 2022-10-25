@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import chestnut$1 from '@cpinnix/colors/chestnut';
-import mistyRose from '@cpinnix/colors/mistyRose';
+import { chestnut as chestnut$1, mistyRose } from '@cpinnix/colors';
 
 var chestnut = generateTheme({
   name: "chestnut",

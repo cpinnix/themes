@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import flax$1 from '@cpinnix/colors/flax';
-import blackOlive from '@cpinnix/colors/blackOlive';
+import { flax as flax$1, blackOlive } from '@cpinnix/colors';
 
 var flax = generateTheme({
   name: "flax",

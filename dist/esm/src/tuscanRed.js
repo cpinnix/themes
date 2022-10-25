@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import tuscanRed$1 from '@cpinnix/colors/tuscanRed';
-import shilo from '@cpinnix/colors/shilo';
+import { tuscanRed as tuscanRed$1, shilo } from '@cpinnix/colors';
 
 var tuscanRed = generateTheme({
   name: "tuscanRed",

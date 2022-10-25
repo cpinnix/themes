@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import deeporange$1 from '@cpinnix/colors/deeporange';
-import white from '@cpinnix/colors/white';
+import { deeporange as deeporange$1, white } from '@cpinnix/colors';
 
 var deeporange = generateTheme({
   name: "deeporange",

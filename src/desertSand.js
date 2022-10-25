@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import desertSand from "@cpinnix/colors/desertSand";
-import blackCoffee from "@cpinnix/colors/blackCoffee";
+import { desertSand, blackCoffee } from "@cpinnix/colors";
 
 export default generate({
   name: "desertSand",

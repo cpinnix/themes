@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import metallicSunburst$1 from '@cpinnix/colors/metallicSunburst';
-import blackOlive from '@cpinnix/colors/blackOlive';
+import { metallicSunburst as metallicSunburst$1, blackOlive } from '@cpinnix/colors';
 
 var metallicSunburst = generateTheme({
   name: "metallicSunburst",

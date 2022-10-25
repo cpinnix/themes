@@ -1,6 +1,5 @@
 import generateTheme from './utils/generateTheme.js';
-import blackCoffee$1 from '@cpinnix/colors/blackCoffee';
-import raindropsOnRoses from '@cpinnix/colors/raindropsOnRoses';
+import { blackCoffee as blackCoffee$1, raindropsOnRoses } from '@cpinnix/colors';
 
 var blackCoffee = generateTheme({
   name: "blackCoffee",

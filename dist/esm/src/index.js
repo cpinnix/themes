@@ -82,7 +82,6 @@ import spanishGray from './spanishGray.js';
 export { default as spanishGray } from './spanishGray.js';
 import cornsilk from './cornsilk.js';
 export { default as cornsilk } from './cornsilk.js';
-import amber from './amber.js';
 export { default as amber } from './amber.js';
 import flax from './flax.js';
 export { default as flax } from './flax.js';
@@ -540,7 +539,6 @@ var themeMap = {
   beige: beige,
   spanishGray: spanishGray,
   cornsilk: cornsilk,
-  amber: amber,
   flax: flax,
   metallicSunburst: metallicSunburst,
   bronzeYellow: bronzeYellow,

@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import liverChestnut from "@cpinnix/colors/liverChestnut";
-import appleBlossom from "@cpinnix/colors/appleBlossom";
+import { liverChestnut, appleBlossom } from "@cpinnix/colors";
 
 export default generate({
   name: "liverChestnut",

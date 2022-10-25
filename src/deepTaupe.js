@@ -1,6 +1,5 @@
 import { generateTheme as generate } from "./utils";
-import deepTaupe from "@cpinnix/colors/deepTaupe";
-import shilo from "@cpinnix/colors/shilo";
+import { deepTaupe, shilo } from "@cpinnix/colors";
 
 export default generate({
   name: "deepTaupe",
