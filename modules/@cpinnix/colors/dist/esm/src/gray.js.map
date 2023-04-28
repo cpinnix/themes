@@ -1,1 +1,1 @@
-{"version":3,"file":"gray.js","sources":["../../../src/gray.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Gray\", \"#9e9e9e\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}
+{"version":3,"file":"gray.js","sources":["../../../src/gray.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken.js\";\n\nexport default colorFromToken(\"Gray\", \"#9e9e9e\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}

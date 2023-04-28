@@ -1,1 +1,1 @@
-{"version":3,"file":"cyan.js","sources":["../../../src/cyan.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Cyan\", \"#00bcd4\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}
+{"version":3,"file":"cyan.js","sources":["../../../src/cyan.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken.js\";\n\nexport default colorFromToken(\"Cyan\", \"#00bcd4\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}

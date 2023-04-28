@@ -1,6 +1,8 @@
 export default [
   "dark",
   "light",
+  "night",
+  "bright",
   "burntUmber",
   "redOxide",
   "mistyRose",

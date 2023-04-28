@@ -3,8 +3,12 @@ import { map } from "lodash-es";
 import * as colors from "@cpinnix/colors";
 import { generateTheme as generate } from "./utils";
 
+export { default as palettes } from "./palettes";
+
 import dark from "./dark";
 import light from "./light";
+import night from "./night";
+import bright from "./bright";
 import burntUmber from "./burntUmber";
 import redOxide from "./redOxide";
 import mistyRose from "./mistyRose";
@@ -527,6 +531,8 @@ const black = generate({
 const themeMap = {
   dark,
   light,
+  night,
+  bright,
   burntUmber,
   redOxide,
   mistyRose,
@@ -645,6 +651,8 @@ export {
   themes,
   dark,
   light,
+  night,
+  bright,
   burntUmber,
   redOxide,
   mistyRose,

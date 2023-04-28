@@ -1,1 +1,1 @@
-{"version":3,"file":"folly.js","sources":["../../../src/folly.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Folly\", \"#f50057\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,YAAeA,cAAc,CAAC,OAAO,EAAE,SAAS,CAAC;;;;"}
+{"version":3,"file":"folly.js","sources":["../../../src/folly.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken.js\";\n\nexport default colorFromToken(\"Folly\", \"#f50057\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,YAAeA,cAAc,CAAC,OAAO,EAAE,SAAS,CAAC;;;;"}

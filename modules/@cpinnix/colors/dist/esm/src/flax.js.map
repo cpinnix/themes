@@ -1,1 +1,1 @@
-{"version":3,"file":"flax.js","sources":["../../../src/flax.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Flax\", \"#e4d18d\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}
+{"version":3,"file":"flax.js","sources":["../../../src/flax.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken.js\";\n\nexport default colorFromToken(\"Flax\", \"#e4d18d\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,WAAeA,cAAc,CAAC,MAAM,EAAE,SAAS,CAAC;;;;"}

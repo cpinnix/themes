@@ -1,1 +1,1 @@
-{"version":3,"file":"auburn.js","sources":["../../../src/auburn.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Auburn\", \"#a32e25\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,aAAeA,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC;;;;"}
+{"version":3,"file":"auburn.js","sources":["../../../src/auburn.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken.js\";\n\nexport default colorFromToken(\"Auburn\", \"#a32e25\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,aAAeA,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC;;;;"}

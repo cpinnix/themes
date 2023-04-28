@@ -1,1 +1,1 @@
-{"version":3,"file":"copper.js","sources":["../../../src/copper.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken\";\n\nexport default colorFromToken(\"Copper\", \"#d28a6e\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,aAAeA,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC;;;;"}
+{"version":3,"file":"copper.js","sources":["../../../src/copper.js"],"sourcesContent":["import colorFromToken from \"./colorFromToken.js\";\n\nexport default colorFromToken(\"Copper\", \"#d28a6e\");\n"],"names":["colorFromToken"],"mappings":";;AAEA,aAAeA,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC;;;;"}

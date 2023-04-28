@@ -2,10 +2,15 @@ export { default as themeNames } from './themeNames.js';
 import { map } from 'lodash-es';
 import * as colors from '@cpinnix/colors';
 import generateTheme from './utils/generateTheme.js';
+export { default as palettes } from './palettes.js';
 import dark from './dark.js';
 export { default as dark } from './dark.js';
 import light from './light.js';
 export { default as light } from './light.js';
+import night from './night.js';
+export { default as night } from './night.js';
+import bright from './bright.js';
+export { default as bright } from './bright.js';
 import burntUmber from './burntUmber.js';
 export { default as burntUmber } from './burntUmber.js';
 import redOxide from './redOxide.js';
@@ -501,6 +506,8 @@ var black = generateTheme({
 var themeMap = {
   dark: dark,
   light: light,
+  night: night,
+  bright: bright,
   burntUmber: burntUmber,
   redOxide: redOxide,
   mistyRose: mistyRose,
